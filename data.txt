@@ -1,0 +1,46 @@
+Name: John Doe
+
+Role: Software Engineer
+
+Department: Software Development
+
+Company: ABC Technologies
+
+Manager Name: Mr. Sharma
+
+Email: john.doe@abc.com
+
+Phone: +91 9999999999
+
+Office Location: Bengaluru, India
+
+Working Hours: Monday to Friday, 9:00 AM - 6:00 PM
+
+Writing Style:
+- Professional
+- Polite
+- Concise
+- Clear and grammatically correct
+
+Preferred Greeting:
+Dear
+
+Preferred Closing:
+Regards
+
+Email Preferences:
+- Keep emails formal.
+- Use a meaningful subject line.
+- Mention dates whenever applicable.
+- Avoid unnecessary jargon.
+- End with a professional signature.
+
+Signature:
+
+Regards,
+
+John Doe
+Software Engineer
+ABC Technologies
+Email: john.doe@abc.com
+Phone: +91 9999999999

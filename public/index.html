@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>AI Email Writing Agent</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>🤖 AI Email Writing Agent</h1>
+
+        <p class="subtitle">
+            Generate professional emails using AI
+        </p>
+
+        <textarea
+            id="prompt"
+            placeholder="Example: Write an email requesting leave for two days..."></textarea>
+
+        <button id="generateBtn">
+            Generate Email
+        </button>
+
+        <div id="emailSection" class="hidden">
+
+            <h2>Generated Email</h2>
+
+            <pre id="emailOutput"></pre>
+
+            <div class="buttons">
+
+                <button id="approveBtn">
+                    ✅ Approve
+                </button>
+
+                <button id="rejectBtn">
+                    ❌ Reject
+                </button>
+
+            </div>
+
+        </div>
+
+        <div id="status"></div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
